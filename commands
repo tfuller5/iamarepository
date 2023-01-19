@@ -10,3 +10,14 @@ use these at any time!
 changes
 - git add
 - git commit
+
+
+remote
+- git push origin __branchname__
+- git pull origin __branchname__
+
+
+branching
+- git branch -a
+- git branch __branchname__
+- git checkout __branchname__
